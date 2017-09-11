@@ -1,0 +1,10 @@
+\name{vectorNum}
+\alias{vectorNum}
+\title{vectorNum}
+\usage{
+vectorNum()
+}
+\description{
+}
+\examples{
+}
